@@ -77,3 +77,7 @@ color: #025157;
     padding-bottom: 12px;
     border-radius: 5px; 
   }
+section
+{
+    display: flex;
+}
