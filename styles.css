@@ -48,10 +48,10 @@ color: #025157;
     color: white;
     background-color: #67b54b;  
     /* #025157 */
-    padding-left: 14px;
-    padding-right: 14px;
-    padding-top: 12px;
-    padding-bottom: 12px;
+    padding-left: 12px;
+    padding-right: 12px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     border: 0;
     border-radius: 5px; 
   }
@@ -68,4 +68,12 @@ color: #025157;
   .promo
   {
       display: flex;
+  }
+  [type="text"]
+  {
+      padding-left: 14px;
+      padding-right: 14px;
+      padding-top: 12px;
+      padding-bottom: 12px;
+      border-radius: 5px;
   }
