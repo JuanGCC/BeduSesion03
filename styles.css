@@ -69,3 +69,11 @@ color: #025157;
   {
       display: flex;
   }
+  [type ="text"]
+  {
+    padding-left: 14px;
+    padding-right: 14px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 5px; 
+  }
